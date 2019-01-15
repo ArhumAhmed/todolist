@@ -1,0 +1,12 @@
+body {
+  background-color: lightblue;
+  text-align: center;
+  font-family: helvetica;
+
+}
+
+
+li {
+	font-size: 20px;
+	margin-top: 10px;
+}
